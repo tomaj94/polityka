@@ -1,0 +1,23 @@
+body{
+    background-color: #404040;
+    color: white;
+}
+#calosc{
+    height: auto;
+    width: auto;
+}
+#toolbar{
+    height: 30px;
+    background-color: black;
+    opacity: 0.8;
+    padding: auto;
+}
+.toolbar{
+    float: left;
+    padding: 10px;
+    border-right: 2px dotted #404040;
+}
+.toolbar:hover{
+    background-color: #404040;
+    cursor: pointer;
+}
